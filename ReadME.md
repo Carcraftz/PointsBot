@@ -12,5 +12,5 @@ npm i keyv discord.js
 node server.js
 
 
-## Here is what the finished product looks like:
+## Finished Product!:
 ![Screenshot](https://media.discordapp.net/attachments/728300471927963740/745344886085255198/unknown.png?width=261&height=573)
